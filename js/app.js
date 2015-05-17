@@ -8,6 +8,6 @@
     var gem={
         name: 'Dodecahedron',
         price: 2.95,
-        description: '...'
+        description: 'This is the first gem in store'
     }
 })();
