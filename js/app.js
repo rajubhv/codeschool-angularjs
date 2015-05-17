@@ -26,7 +26,7 @@
             name: 'Pentagonal Gem',
             price: 5.95,
             description: 'This is the second gem in store',
-            canPurchase: true,
+            canPurchase: false,
             soldOut: false
         }
         ];
