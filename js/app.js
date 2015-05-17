@@ -11,7 +11,7 @@
         price: 2.95,
         description: 'This is the first gem in store',
         canPurchase: true,
-        soldOut: false
+        soldOut: true
     };
     
     var gems = [
