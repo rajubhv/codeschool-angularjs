@@ -20,14 +20,26 @@
             price: 2.95,
             description: 'This is the first gem in store',
             canPurchase: true,
-            soldOut: false
+            soldOut: false,
+            images: [
+                {
+                    full: 'img/ruby.png',
+                    thumbnail : 'img/ruby-thumb.jpg'
+                }
+            ]
         },
         {
             name: 'Pentagonal Gem',
             price: 5.95,
             description: 'This is the second gem in store',
             canPurchase: false,
-            soldOut: false
+            soldOut: false,
+            images: [
+                {
+                    full: 'img/diamond.png',
+                    thumbnail : 'img/diamond-thumb.jpg'
+                }
+            ]
         }
         ];
 })();
